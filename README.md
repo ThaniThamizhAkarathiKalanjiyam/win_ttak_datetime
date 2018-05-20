@@ -1,36 +1,28 @@
-# win_ttak_datetime
+READ ME FILE
+====================
 
-Arcana by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+To run the application click ttak_datetime.exe file. For more details visit web at [TTAK_DATETIME](https://thanithamizhakarathikalanjiyam.github.io/ttak_date_time)
 
-
-A business/corporate style responsive site template. It's pretty barebones but should 
-go over pretty well for folks wanting to get their serious business on.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-n33.co @n33co dribbble.com/n33
+Licence:
+=========================================================
+GNU GENERAL PUBLIC LICENSE,
+Freeware.
 
 
-Credits:
+Requirements:
+=========================================================
+- Windows OS (XP, 7, 8)
+- Windows 10 ([The Latha font](https://duckduckgo.com/?q=The+Latha+font+download&t=seamonkey&ia=web) should be installed from the control panel)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+On Linux:
+---------------------------------------------------------
+Using Wine package this software can able to run.
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+.NetFramework:
+---------------------------------------------------------
+The machine should contain the following frameworks.
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		jquery.dropotron (n33.co)
-		skel (n33.co)
+- [.NetFramework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) 
+- [.NetFramework 3.5 Service pack 1](https://www.microsoft.com/en-us/download/details.aspx?id=22)
+
+The corresponding files are downloaded from the Microsoft web site.
